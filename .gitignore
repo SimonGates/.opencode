@@ -2,4 +2,5 @@
 !.gitignore
 !LICENSE
 !agents/
+!opencode.json
 !agents/**

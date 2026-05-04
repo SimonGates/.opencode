@@ -1,6 +1,6 @@
 ---
-name: Ask
-description: Ask question about a the current codebase
+name: Ask [Codebase] 
+description: Ask question about the current codebase
 mode: all
 model: github-copilot/gpt-5.4-mini
 treasoningEffort: xhigh
